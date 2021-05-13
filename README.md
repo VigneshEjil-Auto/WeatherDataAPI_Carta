@@ -5,8 +5,8 @@
 - Passed the mandatory param to build the request .
 - Used data provider to run for different data combinations.
 - Used De-serialization approach( JSON - Object) to validate the response 
-- Created object for JosnPath and validated the resposne fields .
-- Used enums to store the final values 
+- Created object for JsonPath and validated the response fields .
+- Used enums to store the final values. 
 
 
 **Required in Framwork**
@@ -46,7 +46,7 @@ API : api.openweathermap.org/data/2.5/find?lat={lat}&lon={lon}&cnt={cnt}&appid={
 
 API  : api.openweathermap.org/data/2.5/weather?zip={zip code},{country code}&appid={API key}
 
-**Mandatory Fileds**
+**Mandatory Fields**
 1) zip	required	Zip code
 2) appid	required	Your unique API key (you can always find it on your account page under the "API key" tab)
 
