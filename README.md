@@ -23,7 +23,7 @@
 
 
 API Calls :
-----------------
+--------------
 **Test 1:**
 
 API : api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key} 
