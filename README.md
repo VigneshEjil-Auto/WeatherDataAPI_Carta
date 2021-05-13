@@ -5,7 +5,7 @@
 - JDK 8
 - Android SDK 29
 - Use OpenWeatherMap API
-- Support two language. English 
+- Supported language. English 
 - Use locale Database
 
 API Calls :
