@@ -1,12 +1,26 @@
 # WeatherDataAPI_Carta
+**
+**Approach : **
+- Automated the open source weather API using rest assured DSL . 
+- Passed the mandatory param to build the request .
+- Used data provider to run for different data combinations.
+- Used De-serialization approach( JSON - Object) to validate the response 
+- Created object for JosnPath and validated the resposne fields .
+- Used enums to store the final values 
 
-**Requirements**
+
+**Required in Framwork**
 
 - JDK 8
 - Android SDK 29
 - Use OpenWeatherMap API
-- Supported language. English 
-- Use locale Database
+- Rest Assured
+- TestNg
+- POJO class
+- Json path
+- Data Provider 
+- Enums 
+
 
 API Calls :
 ----------------
