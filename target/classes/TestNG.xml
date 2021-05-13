@@ -1,0 +1,15 @@
+<suite name="Carta API Automation" verbose="1">
+
+    <test name="Lyft API Automation">
+        <classes>
+            <class name ="WeatherApi" />
+            <methods>
+                <include name = "getCityName"></include>
+                <include name = "getLatandLon"></include>
+                <include name = "getZip"></include>
+            </methods>
+        </classes>
+    </test>
+
+
+</suite>
